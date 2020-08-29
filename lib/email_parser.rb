@@ -4,7 +4,7 @@
 # or whitespace (' ').
 
 
-class EmailAddressParser
+class EmailParser
 
 attr_accessor :email_addresses
 
